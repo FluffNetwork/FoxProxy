@@ -1,3 +1,10 @@
+# builds folders
+target/
+libraries_runtime/
+libraries_shade/
+build_libraries/
+logs/
+
 # gradle
 /build/
 /.gradle/
